@@ -40,11 +40,18 @@ markerFolder: ./Chagang-do/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do|Chagang-do]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.public|Chagang-do.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.internal|Chagang-do.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.protect|Chagang-do.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.private|Chagang-do.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.personal|Chagang-do.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.secret|Chagang-do.secret]] 
+
+### #is_/same_as :: [Chagang-do](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.md) 
+
+### #is_/same_as :: [Chagang-do.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.public.md) 
+
+### #is_/same_as :: [Chagang-do.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.internal.md) 
+
+### #is_/same_as :: [Chagang-do.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.protect.md) 
+
+### #is_/same_as :: [Chagang-do.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.private.md) 
+
+### #is_/same_as :: [Chagang-do.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.personal.md) 
+
+### #is_/same_as :: [Chagang-do.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.secret.md)
 

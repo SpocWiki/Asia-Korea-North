@@ -40,11 +40,18 @@ markerFolder: ./Hwanghae-bukto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto|Hwanghae-bukto]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.public|Hwanghae-bukto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.internal|Hwanghae-bukto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.protect|Hwanghae-bukto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.private|Hwanghae-bukto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.personal|Hwanghae-bukto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.secret|Hwanghae-bukto.secret]] 
+
+### #is_/same_as :: [Hwanghae-bukto](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.public.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.internal.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.protect.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.private.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.personal.md) 
+
+### #is_/same_as :: [Hwanghae-bukto.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-bukto.secret.md)
 

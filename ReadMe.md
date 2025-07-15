@@ -38,10 +38,4 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 
 
 
-## Confidential Links & Embeds: 
-- [[Korea~North|Korea~North]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North.internal|Korea~North.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North.protect|Korea~North.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North.private|Korea~North.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North.personal|Korea~North.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North.secret|Korea~North.secret]] 
+

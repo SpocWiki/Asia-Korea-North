@@ -40,11 +40,18 @@ markerFolder: ./Ryanggang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang|Ryanggang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.public|Ryanggang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.internal|Ryanggang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.protect|Ryanggang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.private|Ryanggang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.personal|Ryanggang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.secret|Ryanggang.secret]] 
+
+### #is_/same_as :: [Ryanggang](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.md) 
+
+### #is_/same_as :: [Ryanggang.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.public.md) 
+
+### #is_/same_as :: [Ryanggang.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.internal.md) 
+
+### #is_/same_as :: [Ryanggang.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.protect.md) 
+
+### #is_/same_as :: [Ryanggang.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.private.md) 
+
+### #is_/same_as :: [Ryanggang.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.personal.md) 
+
+### #is_/same_as :: [Ryanggang.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.secret.md)
 

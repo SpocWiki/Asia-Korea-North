@@ -40,11 +40,18 @@ markerFolder: ./P'yŏngan-namdo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo|P'yŏngan-namdo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.public|P'yŏngan-namdo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.internal|P'yŏngan-namdo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.protect|P'yŏngan-namdo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.private|P'yŏngan-namdo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.personal|P'yŏngan-namdo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngan-namdo.secret|P'yŏngan-namdo.secret]] 
+
+### #is_/same_as :: [P'yŏngan-namdo](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.public.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.internal.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.protect.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.private.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.personal.md) 
+
+### #is_/same_as :: [P'yŏngan-namdo.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngan-namdo.secret.md)
 

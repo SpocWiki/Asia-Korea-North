@@ -40,11 +40,18 @@ markerFolder: ./P'yŏngyang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang|P'yŏngyang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.public|P'yŏngyang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.internal|P'yŏngyang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.protect|P'yŏngyang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.private|P'yŏngyang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.personal|P'yŏngyang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.secret|P'yŏngyang.secret]] 
+
+### #is_/same_as :: [P'yŏngyang](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.md) 
+
+### #is_/same_as :: [P'yŏngyang.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.public.md) 
+
+### #is_/same_as :: [P'yŏngyang.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.internal.md) 
+
+### #is_/same_as :: [P'yŏngyang.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.protect.md) 
+
+### #is_/same_as :: [P'yŏngyang.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.private.md) 
+
+### #is_/same_as :: [P'yŏngyang.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.personal.md) 
+
+### #is_/same_as :: [P'yŏngyang.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.secret.md)
 

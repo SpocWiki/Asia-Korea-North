@@ -40,11 +40,18 @@ markerFolder: ./Kangwŏn-do/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do|Kangwŏn-do]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.public|Kangwŏn-do.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.internal|Kangwŏn-do.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.protect|Kangwŏn-do.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.private|Kangwŏn-do.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.personal|Kangwŏn-do.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.secret|Kangwŏn-do.secret]] 
+
+### #is_/same_as :: [Kangwŏn-do](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.md) 
+
+### #is_/same_as :: [Kangwŏn-do.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.public.md) 
+
+### #is_/same_as :: [Kangwŏn-do.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.internal.md) 
+
+### #is_/same_as :: [Kangwŏn-do.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.protect.md) 
+
+### #is_/same_as :: [Kangwŏn-do.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.private.md) 
+
+### #is_/same_as :: [Kangwŏn-do.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.personal.md) 
+
+### #is_/same_as :: [Kangwŏn-do.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Kangwŏn-do.secret.md)
 
