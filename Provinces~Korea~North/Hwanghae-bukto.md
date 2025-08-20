@@ -1,30 +1,29 @@
 ---
-location: [ 38.5 , 126.2 ] 
+location:
+  - 38.5
+  - 126.2
 type: geo-Region
 title: Hwanghae-bukto
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Hwanghae-bukto
-
+  - Hwanghae-bukto
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Hwanghae-bukto
