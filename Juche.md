@@ -19,7 +19,7 @@ Revised_Romanization: Juche sasang
 
 # [[Juche]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Juche,181800|WD~Juche,181800]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Juche,181800|WD~Juche,181800]]  
 
 ## #has_/text_of_/abstract 
 
