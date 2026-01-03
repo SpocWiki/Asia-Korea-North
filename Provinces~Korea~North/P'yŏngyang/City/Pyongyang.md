@@ -173,19 +173,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyongyang) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyongyang](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang|Pyongyang]] 
 
-### #is_/same_as :: [Pyongyang.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.public|Pyongyang.public]] 
 
-### #is_/same_as :: [Pyongyang.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.internal|Pyongyang.internal]] 
 
-### #is_/same_as :: [Pyongyang.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.protect|Pyongyang.protect]] 
 
-### #is_/same_as :: [Pyongyang.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.private|Pyongyang.private]] 
 
-### #is_/same_as :: [Pyongyang.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.personal|Pyongyang.personal]] 
 
-### #is_/same_as :: [Pyongyang.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang/City/Pyongyang.secret|Pyongyang.secret]] 
 

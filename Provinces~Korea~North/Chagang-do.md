@@ -40,17 +40,17 @@ markerFolder: ./Chagang-do/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chagang-do](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do|Chagang-do]] 
 
-### #is_/same_as :: [Chagang-do.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.public|Chagang-do.public]] 
 
-### #is_/same_as :: [Chagang-do.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.internal|Chagang-do.internal]] 
 
-### #is_/same_as :: [Chagang-do.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.protect|Chagang-do.protect]] 
 
-### #is_/same_as :: [Chagang-do.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.private|Chagang-do.private]] 
 
-### #is_/same_as :: [Chagang-do.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.personal|Chagang-do.personal]] 
 
-### #is_/same_as :: [Chagang-do.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Chagang-do.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Chagang-do.secret|Chagang-do.secret]] 
 

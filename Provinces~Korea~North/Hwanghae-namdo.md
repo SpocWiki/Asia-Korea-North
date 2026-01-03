@@ -40,17 +40,17 @@ markerFolder: ./Hwanghae-namdo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hwanghae-namdo](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo|Hwanghae-namdo]] 
 
-### #is_/same_as :: [Hwanghae-namdo.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.public|Hwanghae-namdo.public]] 
 
-### #is_/same_as :: [Hwanghae-namdo.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.internal|Hwanghae-namdo.internal]] 
 
-### #is_/same_as :: [Hwanghae-namdo.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.protect|Hwanghae-namdo.protect]] 
 
-### #is_/same_as :: [Hwanghae-namdo.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.private|Hwanghae-namdo.private]] 
 
-### #is_/same_as :: [Hwanghae-namdo.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.personal|Hwanghae-namdo.personal]] 
 
-### #is_/same_as :: [Hwanghae-namdo.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hwanghae-namdo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hwanghae-namdo.secret|Hwanghae-namdo.secret]] 
 

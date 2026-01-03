@@ -137,3 +137,20 @@ U_S_National_Archives_Identifier: "10583001"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kim%20Il%20Sung) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung|Kim_Il-Sung]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.public|Kim_Il-Sung.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.internal|Kim_Il-Sung.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.protect|Kim_Il-Sung.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.private|Kim_Il-Sung.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.personal|Kim_Il-Sung.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Kim_Il-Sung.secret|Kim_Il-Sung.secret]] 
+

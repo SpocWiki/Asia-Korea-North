@@ -40,17 +40,17 @@ markerFolder: ./Ryanggang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ryanggang](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang|Ryanggang]] 
 
-### #is_/same_as :: [Ryanggang.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.public|Ryanggang.public]] 
 
-### #is_/same_as :: [Ryanggang.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.internal|Ryanggang.internal]] 
 
-### #is_/same_as :: [Ryanggang.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.protect|Ryanggang.protect]] 
 
-### #is_/same_as :: [Ryanggang.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.private|Ryanggang.private]] 
 
-### #is_/same_as :: [Ryanggang.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.personal|Ryanggang.personal]] 
 
-### #is_/same_as :: [Ryanggang.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Ryanggang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Ryanggang.secret|Ryanggang.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./P'yŏngyang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [P'yŏngyang](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang|P'yŏngyang]] 
 
-### #is_/same_as :: [P'yŏngyang.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.public|P'yŏngyang.public]] 
 
-### #is_/same_as :: [P'yŏngyang.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.internal|P'yŏngyang.internal]] 
 
-### #is_/same_as :: [P'yŏngyang.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.protect|P'yŏngyang.protect]] 
 
-### #is_/same_as :: [P'yŏngyang.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.private|P'yŏngyang.private]] 
 
-### #is_/same_as :: [P'yŏngyang.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.personal|P'yŏngyang.personal]] 
 
-### #is_/same_as :: [P'yŏngyang.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/P'yŏngyang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/P'yŏngyang.secret|P'yŏngyang.secret]] 
 

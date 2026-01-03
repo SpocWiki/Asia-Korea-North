@@ -40,17 +40,17 @@ markerFolder: ./Rasŏn/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rasŏn](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn|Rasŏn]] 
 
-### #is_/same_as :: [Rasŏn.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.public|Rasŏn.public]] 
 
-### #is_/same_as :: [Rasŏn.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.internal|Rasŏn.internal]] 
 
-### #is_/same_as :: [Rasŏn.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.protect|Rasŏn.protect]] 
 
-### #is_/same_as :: [Rasŏn.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.private|Rasŏn.private]] 
 
-### #is_/same_as :: [Rasŏn.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.personal|Rasŏn.personal]] 
 
-### #is_/same_as :: [Rasŏn.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Rasŏn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Rasŏn.secret|Rasŏn.secret]] 
 

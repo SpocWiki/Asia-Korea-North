@@ -40,17 +40,17 @@ markerFolder: ./Hamgyŏng-bukto/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamgyŏng-bukto](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto|Hamgyŏng-bukto]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.public|Hamgyŏng-bukto.public]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.internal|Hamgyŏng-bukto.internal]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.protect|Hamgyŏng-bukto.protect]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.private|Hamgyŏng-bukto.private]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.personal|Hamgyŏng-bukto.personal]] 
 
-### #is_/same_as :: [Hamgyŏng-bukto.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North/Provinces~Korea~North/Hamgyŏng-bukto.secret|Hamgyŏng-bukto.secret]] 
 
