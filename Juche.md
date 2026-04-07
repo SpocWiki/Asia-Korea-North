@@ -3,14 +3,14 @@ aliases:
   - Kimilsungism
   - Kimjongilism
 has_id_wikidata: Q181800
-subclass_of: "[[_Standards/WikiData/WD~socialist_patriotism,375332]]"
+subclass_of: "[[_Standards/WikiData/WD~socialist_patriotism,375332|WD~socialist_patriotism,375332]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Songun,502144]]"
-  - "[[_Standards/WikiData/WD~North_Korea's_cult_of_personality,13369391]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-part_of: "[[_Standards/WikiData/WD~Kimilsungism_Kimjongilism,28319806]]"
-country: "[[_Standards/WikiData/WD~North_Korea,423]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
+  - "[[_Standards/WikiData/WD~Songun,502144|WD~Songun,502144]]"
+  - "[[_Standards/WikiData/WD~North_Korea's_cult_of_personality,13369391|WD~North_Korea's_cult_of_personality,13369391]]"
+instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]"
+part_of: "[[_Standards/WikiData/WD~Kimilsungism_Kimjongilism,28319806|WD~Kimilsungism_Kimjongilism,28319806]]"
+country: "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455|WD~Encyclopædia_Britannica,455]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Juche%20Tower%20torch.jpg
 McCune_Reischauer_romanization: Chuch'e sasang
 Commons_category: Juche
