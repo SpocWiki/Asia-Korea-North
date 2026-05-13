@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hamgyŏng-bukto/
 markerFolder: ./Hamgyŏng-bukto/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
