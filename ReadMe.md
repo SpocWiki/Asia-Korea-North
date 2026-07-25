@@ -329,12 +329,12 @@ dv_has_name_en: Korea, Dem. Rep.
 dv_has_name_de: Nordkorea
 dv_Area-Total: 120538
 dv_Area-Land: 120410
-dv_has_place_continent: "[[../../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../../Asia|Asia]]"
 dv_VehicleCode: KP
-dv_Capital: "[[Korea~North/City/Pyongyang|Pyongyang]]"
+dv_Capital: "[[City/Pyongyang|Pyongyang]]"
 dv_Alcohol-l: 3.5
 dv_Language-Id: 459
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 125.75
 dv_has_place_latitude: 39.0333
 dv_concept-democraticpeoplesrepublicofkorea: 7897g"
